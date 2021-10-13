@@ -3,7 +3,8 @@ console.log("Hola Harumi");
 <<<<<<< HEAD
 console.log("¿Qué comiste hoy?")
 =======
-console.log("Se termina el tiempoo");
+console.log("Se termina el día");
+console.log("Hoy comi arroz, pasta y alitas de pollo ");
 <<<<<<< HEAD
  
 =======
