@@ -1,7 +1,7 @@
 console.log("Hola Jorge");
 console.log("Hola Harumi");
 <<<<<<< HEAD
-console.log("¿Cómo estás?")
+console.log("¿Qué comiste hoy?")
 =======
 console.log("Se termina el tiempoo");
 <<<<<<< HEAD
